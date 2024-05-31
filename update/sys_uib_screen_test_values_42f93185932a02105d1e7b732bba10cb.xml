@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "forcedViewName": "",
+        "inputSysId": "3a6b9e16c0a8ce0100e154dd7e6353c2",
+        "inputTable": "cmdb_ci_win_server",
+        "view": "workspace"
+    },
+    "0c3568c75bee0110d78e9e7fb681c784": {
+        "selectedTabIndex": 0,
+        "views": ""
+    }
+}</macroponent_config>
+        <screen display_value="NeedIt User home">46f93145932a02105d1e7b732bba10b2</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-31 22:31:28</sys_created_on>
+        <sys_id>42f93185932a02105d1e7b732bba10cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_42f93185932a02105d1e7b732bba10cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-31 22:31:28</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
